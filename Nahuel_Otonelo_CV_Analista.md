@@ -21,9 +21,9 @@ Email: [nahuelotonelo@gmail.com](mailto:nahuelotonelo@gmail.com) | Teléfono: +5
 - <p style="text-align: justify;">Cuantifiqué a partir de un modelo de estimación del consumo de energía, la mejora en la eficiencia de un nuevo conjunto turbocompresor.</p>
 - <p style="text-align: justify;">Realicé la migración de las bases de datos y cambié la metodología de trabajo para procesar información de excel a Python y frameworks asociados.</p>
 - <p style="text-align: justify;">Implementé el algoritmo AGA-8 para la medicíon de la densidad del gas de proceso para mejorar la incertidumbre de medida de caudal.</p>
-- <p style="text-align: justify;">Optimicé el funcionamiento del sistema de gas comprimido de la planta logrando un ahorro del 15% de la energía en el sistema de gas comprimido y aumentando la confiabilidad del sistema.</p>
+- <p style="text-align: justify;">Optimicé el funcionamiento del sistema de aire comprimido de la planta logrando un ahorro del 15% de la energía en el sistema de gas comprimido y aumentando la confiabilidad del sistema.</p>
 
-**Data Analyst | Freelance | Oct 2023 – Nov 2023**
+**Data Analyst | Proyecto personal | Oct 2023 – Nov 2023**
 
 - <p style="text-align: justify;">Proyecto independiente para el seguimiento, análisis y evaluación de desempeño de carteras de inversión, utilizando Python, Pandas y APIs para procesar datos complejos de múltiples fuentes.</p>
 
@@ -45,6 +45,4 @@ Email: [nahuelotonelo@gmail.com](mailto:nahuelotonelo@gmail.com) | Teléfono: +5
 - Python (intermedio / avanzado)
 - Pandas / Numpy (intermedio / avanzado)
 
-## Idiomas:
-
-- Nivel de Inglés: Intermedio
+Idiomas: Nivel de Inglés: Intermedio

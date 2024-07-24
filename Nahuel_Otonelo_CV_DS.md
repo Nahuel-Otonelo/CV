@@ -59,11 +59,11 @@ Email: [nahuelotonelo@gmail.com](mailto:nahuelotonelo@gmail.com) | Teléfono: +5
 - Logre un ahorro de un 15 % de energía optimizando el funcionamiento del sistema de aire comprimido de la planta evaluando mediciones, funcionamiento y consumo de aire de los equipos de la planta.
 
 
-### Data Scientist | Freelancer | Ene - Feb 2024
+### Data Scientist | Proyecto | Ene - Feb 2024
 - Evaluación de eficacia de algoritmo de gestion de promociones personalizadas para empresa de productos de consumo masivo.
 
 
-### Data Scientist | Freelancer | Mar - Abr 2024
+### Data Scientist | Proyecto | Mar - Abr 2024
 - Elaboración de modelo de recomendación y predicción de compras enfocado en el cliente para maximizar las ventas en una empresa de productos de consumo masivo.
 
 ### Data Analyst | Proyecto personal | Oct 2023 - Actualidad
